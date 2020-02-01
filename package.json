@@ -48,7 +48,7 @@
     "react-dom": "^16.8.1",
     "regenerator-runtime": "^0.13.1",
     "sass-loader": "^7.1.0",
-    "serialize-javascript": "^1.6.1",
+    "serialize-javascript": "^2.1.1",
     "style-loader": "^0.23.1",
     "webpack": "^4.29.3",
     "webpack-chunk-hash": "^0.6.0",
